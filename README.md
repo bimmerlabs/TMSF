@@ -15,6 +15,9 @@ Goals:
 -specified frame rate per animation
 -multiple sprite sizes per animation
 
+Currently Missing:
+-tools to generate the tmsf format.  They exist, just not in a form suitable for public consumption.  But it would be possible to make your own based on the heade data.
+
 instructions:  clone repository and copy tmsf folder to the modules_extra folder in SRL:
 
 <img width="202" height="53" alt="image" src="https://github.com/user-attachments/assets/40bc5757-a13a-466b-811f-6afbe85565b9" />
