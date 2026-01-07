@@ -1,8 +1,10 @@
-tilemap / spritesheet loader for VDP1
+**Tilemap / spritesheet loader for VDP1**
 
-packed VDP1 format for sprites - designed for use with SRL https://github.com/ReyeMe/SaturnRingLib
+A packed VDP1 format for sprites - designed for use with SRL https://github.com/ReyeMe/SaturnRingLib
 
-supports:
+This is very much a WIP.  it works but is not complete and the tooling is not finished either.
+
+Supports:
 -multiple sprites / animations per file
 -animations
 -RLE compression
